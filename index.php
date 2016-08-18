@@ -1,8 +1,13 @@
  <!DOCTYPE html> 
  <html> 
   <head> 
-   <meta content="text/html; charset=utf-8" http-equiv="Content-Type"> <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
-    <title>Hello World! - My first Jelastic app</title> <meta name="viewport" content="width=device-width"> <link href="public/optimum/css/f1902cfa8c412a28ee0fe637a92a072d.out.css" rel="stylesheet" type="text/css"/><!--[if lte IE 7]><link href="public/optimum/css/533a94db90b43e013693222fbbc3e04b.addon.mhtml.css" rel="stylesheet" type="text/css"/><![endif]--><!--[if gt IE 7]><!--><link href="public/optimum/css/6d446ed5f592a96538223bc4fd5a293e.addon.b64.css" rel="stylesheet" type="text/css"/><!--<![endif]-->
+   <meta content="text/html; charset=utf-8" http-equiv="Content-Type"> 
+   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
+   <title>Hello World! - My first Jelastic app</title> 
+   <meta name="viewport" content="width=device-width"> 
+   <link href="public/optimum/css/f1902cfa8c412a28ee0fe637a92a072d.out.css" rel="stylesheet" type="text/css"/>
+   <!--[if lte IE 7]><link href="public/optimum/css/533a94db90b43e013693222fbbc3e04b.addon.mhtml.css" rel="stylesheet" type="text/css"/><![endif]--><!--[if gt IE 7]><!-->
+   <link href="public/optimum/css/6d446ed5f592a96538223bc4fd5a293e.addon.b64.css" rel="stylesheet" type="text/css"/><!--<![endif]-->
   </head> 
   <body> 
    <div class="page"> 
@@ -52,8 +57,14 @@
         <li><a target="_blank" href="http://docs.jelastic.com/whole-project-deploying">Whole project deploying</a></li>  
         <li><a target="_blank" href="http://docs.jelastic.com/ssh-access">SSH Access</a></li>  
        </ul>
-      </div> <div class="c2"> <ul class="links">  <li><a target="_blank" href="http://docs.jelastic.com/php-git-svn">Deploy projects via GIT or SVN</a></li>  <li><a target="_blank" href="http://docs.jelastic.com/app-packaging">Jelastic App Packaging</a></li>  <li><a target="_blank" href="http://docs.jelastic.com/pricing-model">Pricing FAQ</a></li>  </ul> </div>  </div> <div class="footer"> &copy; <a id="footer-link" href="http://jelastic.com/" target="_blank">Jelastic inc.</a>, 
-  <?php echo date("Y") ?>
- All Rights Reserved. </div> </div> <script type="text/javascript"text/javascript" duris:nomerge=1>(function(e,a,f){var c,b=e.getElementsByTagName(a)[0];if(e.getElementById(f)){return}c=e.createElement(a);c.id=f;c.src="//connect.facebook.net/en_US/all.js#xfbml=1";b.parentNode.insertBefore(c,b)}(document,"script","facebook-jssdk"));var _gaq=_gaq||[];_gaq.push(["_setAccount","UA-24049059-10"]);_gaq.push(["_setDomainName","example.com"]);_gaq.push(["_setAllowLinker",true]);_gaq.push(["_trackPageview"]);(function(){var b=document.createElement("script");b.type="text/javascript";b.async=true;b.src=("https:"==document.location.protocol?"https://ssl":"http://www")+".google-analytics.com/ga.js";var a=document.getElementsByTagName("script")[0];a.parentNode.insertBefore(b,a)})();</script> <script src="public/optimum/js/f0ec53c40f3f25833ddf8b6ef147fe8f.out.js" type="text/javascript"></script>
+      </div> <div class="c2"> 
+      <ul class="links">  
+       <li><a target="_blank" href="http://docs.jelastic.com/php-git-svn">Deploy projects via GIT or SVN</a></li>  
+       <li><a target="_blank" href="http://docs.jelastic.com/app-packaging">Jelastic App Packaging</a></li>  
+       <li><a target="_blank" href="http://docs.jelastic.com/pricing-model">Pricing FAQ</a></li>  
+      </ul>
+     </div>  
+    </div> <div class="footer"> &copy; <a id="footer-link" href="http://jelastic.com/" target="_blank">Jelastic inc.</a>, 
+  <?php echo date("Y") ?>  All Rights Reserved. </div> </div> <script type="text/javascript"text/javascript" duris:nomerge=1>(function(e,a,f){var c,b=e.getElementsByTagName(a)[0];if(e.getElementById(f)){return}c=e.createElement(a);c.id=f;c.src="//connect.facebook.net/en_US/all.js#xfbml=1";b.parentNode.insertBefore(c,b)}(document,"script","facebook-jssdk"));var _gaq=_gaq||[];_gaq.push(["_setAccount","UA-24049059-10"]);_gaq.push(["_setDomainName","example.com"]);_gaq.push(["_setAllowLinker",true]);_gaq.push(["_trackPageview"]);(function(){var b=document.createElement("script");b.type="text/javascript";b.async=true;b.src=("https:"==document.location.protocol?"https://ssl":"http://www")+".google-analytics.com/ga.js";var a=document.getElementsByTagName("script")[0];a.parentNode.insertBefore(b,a)})();</script> <script src="public/optimum/js/f0ec53c40f3f25833ddf8b6ef147fe8f.out.js" type="text/javascript"></script>
   </body> 
  </html> 
