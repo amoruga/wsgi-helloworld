@@ -44,7 +44,7 @@
       <div class="text"> 
        <span class="tweet">Tweet<span class="blue">,</span></span> 
        <span class="post">Post<span class="blue">,</span></span> 
-       <span class="share">Share</span> <span class="spread blue">&#151; Tell the World about Jelastic!</span> 
+       <span class="share">Share</span> <span class="spread blue">&#151; Tell the World about Virtuozzo DevOps!</span> 
       </div> 
       <div class="separator bottom"></div> 
      </div> 
