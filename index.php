@@ -61,7 +61,7 @@
       <ul class="links">  
        <li><a target="_blank" href="http://docs.jelastic.com/php-git-svn">Deploy projects via GIT or SVN</a></li>  
        <li><a target="_blank" href="http://docs.jelastic.com/app-packaging">Jelastic App Packaging</a></li>  
-       <li><a target="_blank" href="http://docs.jelastic.com/pricing-model">Pricing FAQ</a></li>  
+       <li><a target="_blank" href="http://virtuozzo.com/products/devops">Get Your Own Virtuozzo DevOps Platform</a></li>  
       </ul>
      </div>  
     </div> <div class="footer"> &copy; <a id="footer-link" href="http://jelastic.com/" target="_blank">Jelastic inc.</a>, 
