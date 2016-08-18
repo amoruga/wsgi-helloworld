@@ -35,7 +35,7 @@
       <div id="fb-root"></div> 
       <div class="fb-like" data-href="http://jelastic.com" data-send="false" data-layout="button_count" data-width="450" data-show-faces="false" data-font="trebuchet ms"></div> 
       </div> <div class="social">  
-       <a target="_blank" name="twitter" href="https://twitter.com/intent/tweet?original_referer=http%3A%2F%2Fjelastic.com%2F&source=tweetbutton&text=I've%20just%20deployed%20my%20first%20cloud%20app%20into%20Jelastic.%20Best%20PHP%20PaaS%20ever!&url=http%3A%2F%2Fjelastic.com%2F&via=jelastic" class="twitter"></a> 
+       <a target="_blank" name="twitter" href="https://twitter.com/intent/tweet?original_referer=http%3A%2F%2Fjelastic.com%2F&source=tweetbutton&text=I've%20just%20deployed%20my%20first%20cloud%20app%20into%20Virtuozzo%20DevOps.%20Best%20PHP%20PaaS%20ever!&url=http%3A%2F%2Fjelastic.com%2F&via=jelastic" class="twitter"></a> 
        <a target="_blank" name="facebook" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fjelastic.com%2F&t=I've%20just%20deployed%20my%20first%20cloud%20app%20into%20Jelastic.%20Best%20PHP%20PaaS%20ever!" class="facebook"></a> 
        <a target="_blank" name="google-plus" href="https://plus.google.com/share?url=http%3A%2F%2Fjelastic.com%2F&h1=en-US" class="google-plus"></a>  
       </div> 
