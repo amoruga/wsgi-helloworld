@@ -3,7 +3,7 @@
   <head> 
    <meta content="text/html; charset=utf-8" http-equiv="Content-Type"> 
    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
-   <title>Hello World! - My first Jelastic app</title> 
+   <title>Hello World! - My app running on Virtuozzo DevOps</title> 
    <meta name="viewport" content="width=device-width"> 
    <link href="public/optimum/css/f1902cfa8c412a28ee0fe637a92a072d.out.css" rel="stylesheet" type="text/css"/>
    <!--[if lte IE 7]><link href="public/optimum/css/533a94db90b43e013693222fbbc3e04b.addon.mhtml.css" rel="stylesheet" type="text/css"/><![endif]--><!--[if gt IE 7]><!-->
