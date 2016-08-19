@@ -19,9 +19,9 @@
       <div class="curve2"></div> 
       <div class="curve3"></div> 
      </div>
-     <h1>HELLO WORLD!!!!</h1> 
+     <h1><font color="blue">HELLO</font> WORLD!!!!</h1> 
      <h2>You did it!</h2> 
-     <h3 class="blue">Your application is now running in the Cloud!</h3> 
+     <h3 class="blue">Your application is now running on Virtuozzo DevOps!</h3> 
      <a id="header-link" href="http://virtuozzo.com/products/devops/" target="_blank" class="powered-by"></a> 
      <noscript> 
       <h1 class="visible">HELLO WORLD</h1> 
