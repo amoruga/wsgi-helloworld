@@ -19,7 +19,7 @@
       <div class="curve2"></div> 
       <div class="curve3"></div> 
      </div>
-     <h1 style="color:blue;">HELLO WORLD!!!!</h1> 
+     <h1>HELLO WORLD!</h1> 
      <h2>You did it!</h2> 
      <h3 class="blue">Your application is now running on Virtuozzo DevOps!</h3> 
      <a id="header-link" href="http://virtuozzo.com/products/devops/" target="_blank" class="powered-by"></a> 
